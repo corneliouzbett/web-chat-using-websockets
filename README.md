@@ -11,5 +11,3 @@ WebSocket is supported in most modern web browsers and for browsers that don’t
 # Requirements
    * Java 1.8
    * Spring boot
-   
-# spring sockets
