@@ -1,5 +1,7 @@
 # Web Chat Application
-Spring boot example web chat application using websockets and RabbitMQ
+Spring boot example web chat application using websockets and RabbitMQ.
+
+Demo: https://b-webchat.herokuapp.com
 
 # Websockets
 WebSocket is a communication protocol that makes it possible to establish a two-way communication channel between a server and a client.
